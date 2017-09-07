@@ -1,7 +1,7 @@
 # reactApp
 
 >npm install
->npm start
 
+>npm start
 
 http://localhost:8080/
